@@ -58,9 +58,14 @@ Plotting:
 
 Generate bar plots to compare average crime rates across different religious compositions.
 Results
-
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/islam.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/christians.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/non-religious.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/hinduism.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/buddhism.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/judaism.png?raw=true)
 The results section contains various plots and analyses showing the relationship between the religious composition of a country's population and its crime rates. Each religious group is analyzed separately, and the crime rates are compared across different categories.
 
 **Conclusion**
-
+![alt text](image.png)
 The conclusion summarizes the findings and provides insights into the correlations between religious composition and crime rates. It also discusses potential implications and areas for further research.
