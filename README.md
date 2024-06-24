@@ -53,4 +53,4 @@ Finally I wanted to compare the different religious compositions against each ot
 
 # Conclusion
 Lastly, was to check for a correlation between the religious composition and crime rates. The result is a bar chart that visualizes the correlation between the religious composition of countries and their overall average crime rate. Each bar represents a different religion, and the height of the bar indicates the correlation value. This visualization helps to easily compare how the percentage of each religion in the population correlates with crime rates. A positive value indicates a positive correlation. As the percentage of the religion increases, the overall average crime rate tends to increase. A negative value indicates a negative correlation. As the percentage of the religion increases, the overall average crime rate tends to decrease. A value close to zero indicates little to no correlation.
-![alt text](image.png)
+
