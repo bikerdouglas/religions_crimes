@@ -35,7 +35,7 @@ The [dataset](<../../../Desktop/18-06-24 09_42_58_theglobaleconomy.csv>) provide
 # Exploration and Analysis
 
 ## Average Crimes Rates and Religious Composition
-After importing and cleaning my data using 'pandas', I wanted to get a futher understanding of the data by getting the average crime rates and religous compositions for each country.  **insert interactive map here** this showed me the countries to be used in the analysis, make up based on the crime and religious indicators.
+After importing and cleaning my data using 'pandas', I wanted to get a futher understanding of the data by getting the average crime rates and religous compositions for each country. This showed me the countries to be used in the analysis, their religious composition and the average crime rates.
 
 ## Defining thresholds and Comparing 
 The next goal was to define thresholds for categorizing countries based on the percentage of the population adhering to different religions. threshold were defined as: 0-20 as low, 20-60 as mediums, and 60-100 as high. Once the religious compositions were defined. I wanted to get the average crime rates by religious composition and compare. The following bar graphs provide some insight into how the religious composition of countries compare to each other based on the crime indicators.
