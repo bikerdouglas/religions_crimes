@@ -40,17 +40,17 @@ After importing and cleaning my data using 'pandas', I wanted to get a futher un
 ## Defining thresholds and Comparing 
 The next goal was to define thresholds for categorizing countries based on the percentage of the population adhering to different religions. threshold were defined as: 0-20 as low, 20-60 as mediums, and 60-100 as high. Once the religious compositions were defined. I wanted to get the average crime rates by religious composition and compare. The following bar graphs provide some insight into how the religious composition of countries compare to each other based on the crime indicators.
 
-![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/islam.png?raw=true)
-![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/christians.png?raw=true)
-![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/non-religious.png?raw=true)
-![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/hinduism.png?raw=true)
-![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/buddhism.png?raw=true)
-![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/judaism.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/muslim_2.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/christianity_2.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/non-religious_2.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/hinduism_2.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/buddhism_2.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/judaism_2.png?raw=true)
 
 ## Comparing Religious Compositions Against Each Other
 Finally I wanted to compare the different religious compositions against each other. the following graph shows the relationship between the religious composition of a country's population and its crime rates. Each religious group is analyzed separately, and the crime rates are compared across different categories.
-![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/all%20religions.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/all_religions_2.png?raw=true)
 
 # Conclusion
 Lastly, was to check for a correlation between the religious composition and crime rates. The result is a bar chart that visualizes the correlation between the religious composition of countries and their overall average crime rate. Each bar represents a different religion, and the height of the bar indicates the correlation value. This visualization helps to easily compare how the percentage of each religion in the population correlates with crime rates. A positive value indicates a positive correlation. As the percentage of the religion increases, the overall average crime rate tends to increase. A negative value indicates a negative correlation. As the percentage of the religion increases, the overall average crime rate tends to decrease. A value close to zero indicates little to no correlation.
-![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/newplot.png?raw=true)
+![Online Image](https://github.com/bikerdouglas/religions_crimes/blob/main/images/graphs/correlation_2.png?raw=true)
